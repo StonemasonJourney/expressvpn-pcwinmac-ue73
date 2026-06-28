@@ -1,4 +1,4 @@
-# 
+# Custom ExpressVPN plugins for Mac OS | Ultimate ExpressVPN plugins for PC Windows. Featuring biometric login and split tunneling — optimized for maximum performance on every platform.
 
 
 
